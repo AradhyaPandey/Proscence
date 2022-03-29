@@ -789,9 +789,23 @@ hr{
 box-shadow:  20px 23px 37px #878787, -15px -15px 27px #ffffff;
 }
 
-.social-insta{
+.social-insta-1{
   background-color: black;
 }
+
+.social-instas{
+  background-color: black;
+}
+
+footer{
+  background-color: black;
+  border: 2px;
+  padding-left: 600px;
+  padding-right: 600px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 
 .get-a-quote{
   background-image: url("https://images.pexels.com/photos/192136/pexels-photo-192136.jpeg?auto=compress");
@@ -832,4 +846,12 @@ height: 400px;
   .column {
     width: 100%;
   }
+}
+
+.social-instas{
+  border: 2px solid black;
+}
+
+.social-insta-1{
+  border: 2px solid black;
 }
